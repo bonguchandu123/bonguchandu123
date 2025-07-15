@@ -3,7 +3,22 @@
 🎯 Full Stack Developer | MERN & Next.js | Tailwind CSS | UI Designer  
 🚀 Passionate about building full-stack applications with clean UI and smooth UX.
 
----
+### 🚀 About Me
+
+- 👨‍💻 I'm a passionate developer who loves building modern web apps  
+- ⚒️ I use **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**  
+- 🧾 With **PostgreSQL**, I’ve built REST APIs and CRUD-based apps — like a ToDo app using SQL queries and joins  
+- 🎨build UI with **ShadCN UI** & **Tailwind CSS**  
+- 📚 Currently learning **Django** and **Data Science**  
+- 🏏 Love playing **Cricket** and **Shuttle (Badminton)**  
+- 🌐 Always curious to explore new tech and ideas
+
+### ✨ Extra Skills
+
+- 🎨 Thumbnail Design: I design thumbnails using Adobe Photoshop — mainly for Instagram Shorts, vlogs, and food content.
+
+
+
 
 
 ### 🧠 Tech Stack
