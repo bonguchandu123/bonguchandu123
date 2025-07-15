@@ -40,7 +40,7 @@
 - ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
 
 
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Projects
 
