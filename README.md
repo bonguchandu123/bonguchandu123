@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bongu Chandu
 
-🎯 Full Stack Developer | MERN & Next.js | Tailwind CSS | UI Designer  
+🎯 Full Stack Developer | MERN & Next.js   
 🚀 Passionate about building full-stack applications with clean UI and smooth UX.
 
 ### 🚀 About Me
