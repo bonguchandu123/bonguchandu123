@@ -60,7 +60,7 @@
 
 ## 🎯 Currently Learning
 
-- 📊 **Data Science:** Python, NumPy(basics)
+- 📊 **DSA:** 
 - 🌐 **Django:** Views, models, templates 
 
 ---
