@@ -5,13 +5,11 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 I'm a passionate developer who loves building modern web apps  
-- ⚒️ I use **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**  
-- 🧾 With **PostgreSQL**, I’ve built REST APIs and CRUD-based apps — like a ToDo app using SQL queries and joins  
-- 🎨build UI with **ShadCN UI** & **Tailwind CSS**  
-- 📚 Currently learning **Django** and **Data Science**  
+- 👨‍💻 I'm a passionate developer who loves building modern web apps   
 - 🏏 Love playing **Cricket** and **Shuttle (Badminton)**  
-- 🌐 Always curious to explore new tech and ideas
+- 🌐 Always curious to explore new tech and ideas,
+- 🎨 Love to Design Thumbnails
+  
 
 ### ✨ Extra Skills
 
@@ -21,7 +19,9 @@
 
 
 
-### 🧠 Tech Stack
+
+### 🧠 Projects Built With
+These are the technologies I’ve used to build my major projects:
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
@@ -63,7 +63,13 @@
 - 📊 **DSA:** 
 - 🌐 **Django:** Views, models, templates 
 
----
+## 🎯 Goals for 2025
+🏆 Land freelance or internship opportunities using my current stack
+🎨 Improve my UI/UX and thumbnail design skills
+⚙️ Deepen my current stack
+
+
+
 
 ## 🏏 Hobbies & Interests
 
