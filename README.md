@@ -50,14 +50,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats (All-Time)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonguchandu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bonguchandu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonguchandu&layout=compact&langs_count=8&theme=radical)
 
 
 
----
 
 ## 📫 Connect with Me
 
