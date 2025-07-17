@@ -90,10 +90,11 @@ These are the technologies I’ve used to build my major projects:
 
 ## 📫 Connect with Me
 
-- LinkedIn: [linkedin.com/in/bonguchandu](https://linkedin.com/in/bonguchandu)
-- Instagram: [@chandu30215](https://instagram.com/chandu30215)
-- Github:[https://github.com/bonguchandu123](https://github.com/bonguchandu123)
-- portfolio:(https://portfolio-web-zhb4.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/bonguchandu)
+- [Instagram](https://instagram.com/chandu30215)
+- [GitHub](https://github.com/bonguchandu123)
+- [Portfolio](https://portfolio-web-zhb4.vercel.app/)
+
   
 
 ---
