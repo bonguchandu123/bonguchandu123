@@ -39,6 +39,17 @@ These are the technologies I’ve used to build my major projects:
 - ![Render](https://img.shields.io/badge/-Render-3A3A3A?style=flat&logo=render)
 - ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
 
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat)
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+- ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat)
+- ![MVVM](https://img.shields.io/badge/-MVVM%20Architecture-6A5ACD?style=flat)
+- ![Room](https://img.shields.io/badge/-Room%20Database-3DDC84?logo=sqlite&logoColor=white&style=flat)
+- ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+- ![Retrofit](https://img.shields.io/badge/-Retrofit-009688?style=flat)
+- ![Hilt](https://img.shields.io/badge/-Hilt%20DI-34A853?logo=dagger&logoColor=white&style=flat)
+- ![Coroutines](https://img.shields.io/badge/-Kotlin%20Coroutines-7F52FF?logo=kotlin&logoColor=white&style=flat)
+- ![Material 3](https://img.shields.io/badge/-Material%203-757575?logo=materialdesign&logoColor=white&style=flat)
+
 
 
 
