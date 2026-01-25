@@ -104,7 +104,7 @@ These are the technologies I’ve used to build my major projects:
 - [LinkedIn](https://linkedin.com/in/bonguchandu)
 - [Instagram](https://instagram.com/chandu30215)
 - [GitHub](https://github.com/bonguchandu123)
-- [Portfolio](https://chanduin.vercel.app)
+- [Portfolio](https://chanduin-iota.vercel.app/)
 
   
 
