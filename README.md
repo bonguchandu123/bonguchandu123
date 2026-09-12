@@ -3,11 +3,7 @@
 🎯 Full Stack Developer
 🚀 Passionate about building full-stack applications, AI automations, and intelligent business solutions.
 
-## 📄 Resume
 
-📄 **[View My Resume](./bongu-chandu.pdf)**
-
----
 
 ### 🚀 About Me
 
